@@ -1,0 +1,5 @@
+source 'http://rubygems.com'
+
+gem 'rspec'
+gem 'shoulda'
+gem 'pry'

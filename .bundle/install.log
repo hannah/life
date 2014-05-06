@@ -1,0 +1,20 @@
+# Logfile created on 2014-05-06 14:06:47 -0400 by logger.rb/41954
+I, [2014-05-06T14:06:47.527056 #1665]  INFO -- : 0:  i18n (0.6.9) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/i18n-0.6.9.gemspec
+I, [2014-05-06T14:06:47.527460 #1665]  INFO -- : 0:  json (1.8.1) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-05-06T14:06:47.527728 #1665]  INFO -- : 0:  minitest (5.3.2) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/minitest-5.3.2.gemspec
+I, [2014-05-06T14:06:47.527989 #1665]  INFO -- : 0:  thread_safe (0.3.3) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/thread_safe-0.3.3.gemspec
+I, [2014-05-06T14:06:47.528238 #1665]  INFO -- : 0:  tzinfo (1.1.0) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/tzinfo-1.1.0.gemspec
+I, [2014-05-06T14:06:47.528478 #1665]  INFO -- : 0:  activesupport (4.1.0) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/activesupport-4.1.0.gemspec
+I, [2014-05-06T14:06:47.528721 #1665]  INFO -- : 0:  coderay (1.1.0) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.1.0.gemspec
+I, [2014-05-06T14:06:47.528966 #1665]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-05-06T14:06:47.529208 #1665]  INFO -- : 0:  method_source (0.8.2) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.2.gemspec
+I, [2014-05-06T14:06:47.529455 #1665]  INFO -- : 0:  slop (3.5.0) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/slop-3.5.0.gemspec
+I, [2014-05-06T14:06:47.529686 #1665]  INFO -- : 0:  pry (0.9.12.6) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.6.gemspec
+I, [2014-05-06T14:06:47.529965 #1665]  INFO -- : 0:  rspec-core (2.14.8) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.8.gemspec
+I, [2014-05-06T14:06:47.530209 #1665]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-05-06T14:06:47.530444 #1665]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-05-06T14:06:47.530682 #1665]  INFO -- : 0:  rspec (2.14.1) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-05-06T14:06:47.530919 #1665]  INFO -- : 0:  shoulda-context (1.2.1) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/shoulda-context-1.2.1.gemspec
+I, [2014-05-06T14:06:47.531211 #1665]  INFO -- : 0:  shoulda-matchers (2.6.0) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/shoulda-matchers-2.6.0.gemspec
+I, [2014-05-06T14:06:47.537793 #1665]  INFO -- : 0:  shoulda (3.5.0) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/shoulda-3.5.0.gemspec
+I, [2014-05-06T14:06:47.538663 #1665]  INFO -- : 0:  bundler (1.5.1) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
