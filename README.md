@@ -1,1 +1,1 @@
-Conway's Game of Life using Javascript.
+Conway's Game of Life using Ruby.
